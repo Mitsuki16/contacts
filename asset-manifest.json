@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contacts/static/css/main.b46475ae.css",
+    "main.js": "/contacts/static/js/main.1862543f.js",
+    "static/media/imac_bg.jpg": "/contacts/static/media/imac_bg.149156999a95b0dfe331.jpg",
+    "index.html": "/contacts/index.html",
+    "main.b46475ae.css.map": "/contacts/static/css/main.b46475ae.css.map",
+    "main.1862543f.js.map": "/contacts/static/js/main.1862543f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b46475ae.css",
+    "static/js/main.1862543f.js"
+  ]
+}
